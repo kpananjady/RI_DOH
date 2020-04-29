@@ -1,0 +1,13 @@
+Race,metric,percent,date
+Hispanic/Latinx (any race),cases,43,04-28
+Non-Hispanic black/African American,cases,13,04-28
+Non-Hispanic white,cases,39,04-28
+Non-Hispanic other,cases,4,04-28
+Hispanic/Latinx (any race),hospitalizations,33,04-28
+Non-Hispanic black/African American,hospitalizations,13,04-28
+Non-Hispanic white,hospitalizations,50,04-28
+Non-Hispanic other,hospitalizations,4,04-28
+Hispanic/Latinx (any race),fatalities,12,04-28
+Non-Hispanic black/African American,fatalities,7,04-28
+Non-Hispanic white,fatalities,80,04-28
+Non-Hispanic other,fatalities,0,04-28
