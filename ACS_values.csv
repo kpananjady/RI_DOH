@@ -2,4 +2,6 @@ race,percentage_total_population
 ACS_hispanic,15.0
 ACS_non_hispanic_black,5.6
 ACS_non_hispanic_white,72.7
-ACS_non_hispanic_other,6.700000000000003
+ACS_non_hispanic_other_without_two_or_more_races,4.400000000000003
+ACS_non_hispanic_two_or_more_races,2.3
+ACS_non_hispanic_other_with_two_or_more_races,6.700000000000003
