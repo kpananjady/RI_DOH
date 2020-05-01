@@ -1,0 +1,13 @@
+,Race,metric,percent,date,race_population,adjusted
+0,Hispanic/Latinx (any race),cases,43,04-28,15.0,25.369999999999997
+1,Non-Hispanic black/African American,cases,13,04-28,5.6,7.67
+2,Non-Hispanic white,cases,39,04-28,72.7,23.009999999999998
+3,Non-Hispanic other,cases,4,04-28,4.400000000000003,2.36
+4,Hispanic/Latinx (any race),hospitalizations,33,04-28,15.0,22.77
+5,Non-Hispanic black/African American,hospitalizations,13,04-28,5.6,8.969999999999999
+6,Non-Hispanic white,hospitalizations,50,04-28,72.7,34.5
+7,Non-Hispanic other,hospitalizations,4,04-28,4.400000000000003,2.76
+8,Hispanic/Latinx (any race),fatalities,12,04-28,15.0,10.8
+9,Non-Hispanic black/African American,fatalities,7,04-28,5.6,6.3
+10,Non-Hispanic white,fatalities,80,04-28,72.7,72.0
+11,Non-Hispanic other,fatalities,0,04-28,4.400000000000003,0.0
